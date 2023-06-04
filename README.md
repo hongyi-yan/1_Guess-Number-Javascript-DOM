@@ -1,3 +1,2 @@
 # Guess-Number
-Guess a secret number from 1-20
-[Deployed app link](https://hongyi-yan.github.io/Guess-Number-Javascript-DOM-/)
+[Guess a secret number from 1-20](https://hongyi-yan.github.io/Guess-Number)
