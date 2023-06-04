@@ -1,12 +1,3 @@
-
-const test = document.querySelector('.test');
-
-console.log(test.textContent);
-console.log(test.innerText);
-
-
-
-//math is a method
 const secretNumber = Math.trunc(Math.random() * 20) + 1;
 
 let score = 20;
